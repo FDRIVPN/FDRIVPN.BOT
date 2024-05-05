@@ -1,4 +1,8 @@
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#subscription-userinfo: 
+upload=29; 
+download=12; 
+total=500; 
+expire=500;
 vless://73d107cc-a444-4340-8965-7dc7671cf56f@cpanel3.iraniancpi.uk:2053?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN_BOT-SUB1
 vless://901a314e-75cd-40b2-a402-8ba51956bce6@cpanel3.iraniancpi.uk:2053?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN_SUB2
 vless://630927f6-22fd-4ea4-b93a-ee10028f5a51@cpanel3.iraniancpi.uk:2053?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN_SUB3
