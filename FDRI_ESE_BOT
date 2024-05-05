@@ -1,5 +1,4 @@
-#subscription-userinfo: 
-upload=29; 
+#subscription-userinfo: upload=29; 
 download=12; 
 total=500; 
 expire=500;
