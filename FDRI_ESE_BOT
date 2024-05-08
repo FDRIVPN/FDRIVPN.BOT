@@ -1,4 +1,7 @@
-
+vless://8be7f065-dd41-4345-9328-3e48d0a52332@cpanel1.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel1.sassanidempire.com#FDRIVPN
+vless://4e5f1050-08ce-41e7-8cfc-b964dc88e0f7@cpanel1.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel1.sassanidempire.com#FDRIVPN
+vless://00f6276a-4128-4768-9a6c-1b75625302d8@cpanel1.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel1.sassanidempire.com#FDRIVPN
+vless://55cd433f-cc91-4e5e-86c5-e1b823bcb8e0@cpanel1.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel1.sassanidempire.com#FDRIVPN
 vless://1077ba29-d185-4c56-8285-b23cf13626d1@cpanel3.iraniancpi.uk:443?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN
 vless://103fd730-843d-49ea-b91e-fb567f83ef76@cpanel3.iraniancpi.uk:443?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN
 vless://e644d6b0-c6ba-4392-9716-c44bb04f70d2@cpanel3.iraniancpi.uk:443?type=ws&security=none&path=/&host=&sni=cpanel3.iraniancpi.uk:8443#FDRIVPN
