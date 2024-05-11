@@ -42,3 +42,15 @@ vless://2215c977-9827-4931-a649-433246fd072c@cpanel2.sassanidempire.com:2053?typ
 vless://c64d9984-03f5-4d95-bb3c-68438bf83c88@cpanel2.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
 vless://1960d417-f54e-4c43-ad54-3f60465807a6@cpanel2.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
 vless://f8ed3b8a-fcb1-4093-acd7-33557681eed9@cpanel2.sassanidempire.com:2053?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://be3afa59-1ae3-423b-baa4-c70b17cb0376@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://1ecb22f6-3012-4b06-be54-6b124373bf50@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://5d6c8c5e-2d75-467b-8e37-6f557ebad87f@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://140e57f3-c78c-41f3-97dd-23346560be5e@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://ed283d7b-93e8-4279-94e4-3bb3c83f7ad0@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://7d2bd477-53d4-4785-81cb-0cd4a08d6e8b@cpanel2.sassanidempire.com:2087?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://ef809221-7481-4859-86e9-20a9c4e2bfdd@cpanel2.sassanidempire.com:2087?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://be3afa59-1ae3-423b-baa4-c70b17cb0376@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://1ecb22f6-3012-4b06-be54-6b124373bf50@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://5d6c8c5e-2d75-467b-8e37-6f557ebad87f@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://140e57f3-c78c-41f3-97dd-23346560be5e@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
+vless://ed283d7b-93e8-4279-94e4-3bb3c83f7ad0@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
