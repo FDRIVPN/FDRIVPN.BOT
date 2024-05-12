@@ -1,4 +1,4 @@
-#subscription-userinfo:upload=29; download=12; total=1000; expire=251 #support-url: https://github.com/FDRIVPN-ESE/ALL-Configs #profile-web-page-url: https://github.com/FDRIVPN-ESE/ALL-Configs
+#subscription-userinfo:upload=29; download=12; total=10737418240000000; expire=2546249531 #support-url: https://github.com/FDRIVPN-ESE/ALL-Configs #profile-web-page-url: https://github.com/FDRIVPN-ESE/ALL-Configs
 vless://014b3c7b-be24-4557-9931-efe2f0004dfe@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN,
 vless://086af7bc-4c68-47f1-9af5-13318ccfe441@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
 vless://b44a9f1d-bfe9-422e-a1fb-c1ea74b16866@cpanel2.sassanidempire.com:2083?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#FDRIVPN
