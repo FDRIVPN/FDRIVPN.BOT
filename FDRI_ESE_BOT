@@ -106,7 +106,6 @@ vless://74d65787-4b4f-4cba-9ffc-35479d4b759e@cpanel2.sassanidempire.com:2087?typ
 vless://fa6f742a-f052-4910-824c-ee5152cc63c6@cpanel2.sassanidempire.com:2087?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#
 vless://ac168406-5741-44ca-ac6e-34044c432cd3@cpanel2.sassanidempire.com:2087?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#
 vless://8d81c432-d511-419f-bebf-0c727dc453d6@cpanel2.sassanidempire.com:2087?type=grpc&security=tls&serviceName=&sni=cpanel2.sassanidempire.com#
-
 vless://b1062e9d-1439-4d04-8d2a-2c0ce3a3c4e9@irancpibotserver2.cpionline.us:2053?type=tcp&security=tls&sni=irancpibotserver2.cpionline.us#
 vless://7766808f-99f3-4438-bae3-329c377cb216@irancpibotserver2.cpionline.us:2053?type=tcp&security=tls&sni=irancpibotserver2.cpionline.us#
 vless://36ec8155-5eda-4f44-aeca-2c40a242babd@irancpibotserver2.cpionline.us:2053?type=tcp&security=tls&sni=irancpibotserver2.cpionline.us#
